@@ -1,0 +1,2 @@
+# jsSnake
+practicing javascript
